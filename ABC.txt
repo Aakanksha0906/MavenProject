@@ -1,0 +1,9 @@
+swagger:2.0
+info:
+	 description:Regarding the pets details
+	 Version:1.0.0
+	 Title:petsapplication
+Host:com.cg
+BasePathnull
+schemes:
+ -https
